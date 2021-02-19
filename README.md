@@ -2,6 +2,11 @@
 
 This application is based on the starter project provided by Udacity.
 
+
+# CircleCI Status Badge
+[![mikejpoole](https://circleci.com/gh/mikejpoole/nd0067-c4-udagram.svg?style=svg)](https://circleci.com/gh/mikejpoole/nd0067-c4-udagram)
+
+
 ## Getting Started
 
 1. Open a terminal and navigate to the root of the repo
