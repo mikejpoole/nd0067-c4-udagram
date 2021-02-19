@@ -9,5 +9,5 @@ jobs:
       - node/install
       - checkout
       - run: 
-        name: "Hello World"
+        name: hello
         command: echo "Hello World, this is Udagram!"
