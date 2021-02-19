@@ -8,6 +8,4 @@ jobs:
     steps:
       - node/install
       - checkout
-      - run: 
-        name: hello
-        command: echo "Hello World, this is Udagram!"
+      - run: echo "Hello World, this is Udagram!"
