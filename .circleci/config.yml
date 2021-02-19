@@ -8,4 +8,8 @@ jobs:
     steps:
       - node/install
       - checkout
-      - run: echo "Hello World, this is Udagram!"
+      # - run: echo "Hello World, this is Udagram!"
+      - run: npm run frontend:install
+      - run: npm run api:install
+      - run: npm run frontend:build
+      - run: npm run api:build
