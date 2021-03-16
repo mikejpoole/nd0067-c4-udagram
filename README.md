@@ -1,10 +1,41 @@
 # Udagram
 
-This application is based on the starter project provided by Udacity. The contents of the apps themselves are not important as this is being used to test the deployment of the apps to, and the provisioning of Postgress database at, AWS using CircleCI pipeline.
+This application is based on the starter project provided by Udacity. The contents of the apps themselves are unimportant as this is being used to test the deployment of the apps to, and the provisioning of Postgress database at, AWS using CircleCI pipeline.
 
 
-# CircleCI Status Badge
+## CircleCI Status Badge
 [![mikejpoole](https://circleci.com/gh/mikejpoole/nd0067-c4-udagram.svg?style=svg)](https://circleci.com/gh/mikejpoole/nd0067-c4-udagram)
+
+
+
+
+
+
+## TODO files and folders:
+*    .circleci/config.yml
+*    this Readme with some basic documentation
+*    a docs folder to include architecture diagram and more detailed documentation files (MD format) on infrastructure description, app dependencies, and pipeline process
+
+
+## TODO PROVISION AWS (and show console screenshots):
+*    AWS RDS for the database
+*    AWS ElasticBeanstalk For the API
+*    AWS S3 for web hosting (t4449)
+
+
+## TODO:
+*    Deploy your application to those services
+*    Connect your GitHub repo to CircleCi
+*    Configure a CircleCi pipeline to automate your deployments
+*    Document the infrastructure needs (RDS, S3 Elastic Beanstalk, etc) and explain the different steps in the pipeline
+*    Create architecture diagrams for an overview of the infrastructure and the pipeline
+
+
+For Submission:
+*    Provide the link to your hosted working Front-End Application in the README
+*    Include a screenshot of your last build in CircleCi (in docs folder)
+*    Screenshots of the configuration page of your AWS services (in docs folder)
+
 
 
 ## Getting Started
