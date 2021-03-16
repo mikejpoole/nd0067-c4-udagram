@@ -37,8 +37,8 @@ The front end can be viewed [here](http://nd0067-c4-frontend.s3-website-us-east-
 
 For Submission:
 *    Provide the link to your hosted working Front-End Application in the README
-*    Include a screenshot of your last build in CircleCi (in docs folder)
-*    Screenshots of the configuration page of your AWS services (in docs folder)
+*    Include a screenshot of your last build in CircleCi (in screenshots folder)
+*    Screenshots of the configuration page of your AWS services (in screenshots folder)
 
 
 
