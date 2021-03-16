@@ -12,9 +12,6 @@ The front end can be viewed [here](http://nd0067-c4-frontend.s3-website-us-east-
 
 
 
-
-
-
 ## TODO files and folders:
 *    .circleci/config.yml
 *    this Readme with some basic documentation
@@ -36,7 +33,6 @@ The front end can be viewed [here](http://nd0067-c4-frontend.s3-website-us-east-
 
 
 For Submission:
-*    Provide the link to your hosted working Front-End Application in the README
 *    Include a screenshot of your last build in CircleCi (in screenshots folder)
 *    Screenshots of the configuration page of your AWS services (in screenshots folder)
 
@@ -97,8 +93,3 @@ The e2e tests are using Protractor and Jasmine.
 - [Angular](https://angular.io/) - Single Page Application Framework
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
-
-## License
-
-[License](LICENSE.txt)
-"# nd0067-c4-udagram" 
