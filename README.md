@@ -3,6 +3,10 @@
 This application is based on the starter project provided by Udacity. The contents of the apps themselves are unimportant as this is being used to test the deployment of the apps to, and the provisioning of Postgress database at, AWS using CircleCI pipeline.
 
 
+## Front End Location
+The front end can be viewed [here](http://nd0067-c4-frontend.s3-website-us-east-1.amazonaws.com/).
+
+
 ## CircleCI Status Badge
 [![mikejpoole](https://circleci.com/gh/mikejpoole/nd0067-c4-udagram.svg?style=svg)](https://circleci.com/gh/mikejpoole/nd0067-c4-udagram)
 
