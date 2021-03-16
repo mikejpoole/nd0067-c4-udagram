@@ -1,6 +1,6 @@
 # Udagram
 
-This application is based on the starter project provided by Udacity.
+This application is based on the starter project provided by Udacity. The contents of the apps themselves are not important as this is being used to test the deployment of the apps to, and the provisioning of Postgress database at, AWS using CircleCI pipeline.
 
 
 # CircleCI Status Badge
