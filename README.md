@@ -38,7 +38,6 @@ Linux commands are used for the build commands so this will not build on a Windo
 *    Connect your GitHub repo to CircleCi
 *    Configure a CircleCi pipeline to automate your deployments
 *    Document the infrastructure needs (RDS, S3 Elastic Beanstalk, etc) and explain the different steps in the pipeline
-*    Document infrastructure description, app dependencies, and pipeline process
 *    Create architecture diagrams for an overview of the infrastructure and the pipeline
 
 
