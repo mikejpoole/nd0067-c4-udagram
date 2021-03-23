@@ -11,7 +11,14 @@ The front end can be viewed [here](http://nd0067-c4-frontend.s3-website-us-east-
 [![mikejpoole](https://circleci.com/gh/mikejpoole/nd0067-c4-udagram.svg?style=svg)](https://circleci.com/gh/mikejpoole/nd0067-c4-udagram)
 
 
+
+
 ## TODO Installation
+
+
+
+## Building
+Linux commands are used for the build commands so this will not build on a Windows machine.
 
 
 
