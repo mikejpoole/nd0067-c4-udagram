@@ -25,7 +25,6 @@ Linux commands are used for the build commands so this will not build on a Windo
 ## TODO files and folders:
 *    .circleci/config.yml
 *    this Readme with some basic documentation
-*    a docs folder to include architecture diagram and more detailed documentation files (MD format) on infrastructure description, app dependencies, and pipeline process
 
 
 ## TODO PROVISION AWS (and show console screenshots):
@@ -39,13 +38,13 @@ Linux commands are used for the build commands so this will not build on a Windo
 *    Connect your GitHub repo to CircleCi
 *    Configure a CircleCi pipeline to automate your deployments
 *    Document the infrastructure needs (RDS, S3 Elastic Beanstalk, etc) and explain the different steps in the pipeline
+*    Document infrastructure description, app dependencies, and pipeline process
 *    Create architecture diagrams for an overview of the infrastructure and the pipeline
 
 
 For Submission:
 *    Include a screenshot of your last build in CircleCi (in screenshots folder)
 *    Screenshots of the configuration page of your AWS services (in screenshots folder)
-
 
 
 ## Getting Started
