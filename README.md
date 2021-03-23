@@ -11,10 +11,14 @@ The front end can be viewed [here](http://nd0067-c4-frontend.s3-website-us-east-
 [![mikejpoole](https://circleci.com/gh/mikejpoole/nd0067-c4-udagram.svg?style=svg)](https://circleci.com/gh/mikejpoole/nd0067-c4-udagram)
 
 
+## Insfrastructure
+The infrasctructure and the pipeline are documented [here](/docs/infrasctucture.md).
 
 
-## TODO Installation
 
+## Installation
+To install the API run `npm run api:install`.
+To install the front end run `npm run frontend:install`.
 
 
 ## Building
@@ -37,11 +41,6 @@ Linux commands are used for the build commands so this will not build on a Windo
 *    Deploy your application to those services
 *    Connect your GitHub repo to CircleCi
 *    Configure a CircleCi pipeline to automate your deployments
-*    Document the infrastructure needs (RDS, S3 Elastic Beanstalk, etc) and explain the different steps in the pipeline
-*    Create architecture diagrams for an overview of the infrastructure and the pipeline
-
-
-For Submission:
 *    Include a screenshot of your last build in CircleCi (in screenshots folder)
 *    Screenshots of the configuration page of your AWS services (in screenshots folder)
 
