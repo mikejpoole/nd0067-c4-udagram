@@ -12,7 +12,7 @@ The front end can be viewed [here](http://nd0067-c4-frontend.s3-website-us-east-
 
 
 ## Insfrastructure
-The infrasctructure and the pipeline are documented [here](/docs/infrasctucture.md).
+The infrasctructure and the pipeline are documented [here](/docs/infrastructure.md).
 
 
 
