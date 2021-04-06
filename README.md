@@ -22,6 +22,8 @@ Running `npm run test` will perform unit tests on:
 
 Running `npm run e2e` will perform an end to end test on the front end using Protractor and Jasmine. Chrome 89 (the latest at the time of writing) will be required on your system.
 
+Use `ctrl` + `c` to exit the Angular tests.
+
 ## A Note About Building
 Linux commands are used for the build commands so this will not build on a Windows machine.
 
@@ -31,10 +33,10 @@ Linux commands are used for the build commands so this will not build on a Windo
 ## TODO PROVISION AWS (and show console screenshots):
 * AWS RDS for the database (t4378)
 * AWS ElasticBeanstalk For the API (t4379)
-* AWS S3 for web hosting (t4449)
+* AWS S3 for web hosting (t4449) = requires ListAllMyBuckets Permissions (t4481)
 
 ## TODO:
-* Deploy your application to those services
+* Deploy your application to those services using the CLIs (t4483)
 * Populate database using Sequelize
 * Configure a CircleCi pipeline to automate your deployments
 * Include a screenshot of your last build in CircleCi (in screenshots folder)

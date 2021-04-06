@@ -5,7 +5,7 @@
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
-    "deploy": "aws s3 ls",
+    "deploy": "aws s3 cp --recursive --acl public-read ./target s3://udagram/",
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",

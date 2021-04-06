@@ -11,7 +11,8 @@
     "prod": "tsc && node ./www/server.js",
     "clean": "rm -rf www/ || true",
     "build": "npm run clean && tsc && cp -rf src/config www/config && cp .npmrc www/.npmrc && cp package.json www/package.json && cd www && zip -r Archive.zip . && cd ..",
-    "test": "jest"
+    "test": "jest",
+    "deploy": "echo 'TODO: Add EB CLI deploy command'"
   },
   "keywords": [],
   "author": "Gabriel Ruttner and Mike Poole",
