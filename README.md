@@ -29,13 +29,13 @@ Linux commands are used for the build commands so this will not build on a Windo
 * .circleci/config.yml
 
 ## TODO PROVISION AWS (and show console screenshots):
-* Fix IAMs Issue (t4450)
 * AWS RDS for the database (t4378)
 * AWS ElasticBeanstalk For the API (t4379)
 * AWS S3 for web hosting (t4449)
 
 ## TODO:
 * Deploy your application to those services
+* Populate database using Sequelize
 * Configure a CircleCi pipeline to automate your deployments
 * Include a screenshot of your last build in CircleCi (in screenshots folder)
 * Screenshots of the configuration page of your AWS services (in screenshots folder)
